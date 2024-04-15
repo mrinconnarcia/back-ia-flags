@@ -1,6 +1,5 @@
 Flask==2.3.2
 Flask-Cors==3.0.10
-Keras==2.8.0
 opencv-python==4.5.5.62
 numpy
 gunicorn==21.2.0

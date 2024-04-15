@@ -2,12 +2,12 @@ Flask==2.3.2
 Flask-Cors==3.0.10
 Keras==2.8.0
 opencv-python==4.5.5.62
-numpy==1.22.3
+numpy
 gunicorn==21.2.0
-tensorboard                 == 2.15.2
-tensorboard-data-server      ==0.7.1
-tensorflow                   ==2.15.0
-tensorflow-decision-forests  ==1.8.1
-tensorflow-estimator         ==2.15.0
-tensorflowjs                 ==4.17.0
-termcolor                    ==2.3.0
+tensorboard==2.15.2
+tensorboard-data-server==0.7.1
+tensorflow==2.15.0
+tensorflow-decision-forests==1.8.1
+tensorflow-estimator==2.15.0
+tensorflowjs==4.17.0
+termcolor==2.3.0
